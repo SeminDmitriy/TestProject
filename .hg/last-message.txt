@@ -1,1 +1,0 @@
-prepare project for new features, add check camera and album, fix bug with new game empty image
